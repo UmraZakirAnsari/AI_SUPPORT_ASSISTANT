@@ -14,6 +14,8 @@ This project is an AI-powered customer support assistant that allows users to ch
 - Structured JSON output for backend use
 - Chat-style UI for real-time interaction
 - Fallback handling for edge cases
+- Animated typing indicator for better UX
+- Chat-style UI for real-time interaction
 
 ---
 
