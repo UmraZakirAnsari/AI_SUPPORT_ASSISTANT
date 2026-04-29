@@ -26,6 +26,11 @@ This project is an AI-powered customer support assistant that allows users to ch
 
 ---
 
+## How it works
+- The frontend sends user queries to a FastAPI backend.
+- The backend calls an AI model via OpenRouter API.
+- The model processes the query and returns structured responses, which are displayed in the chat UI.
+
 ##  Setup Instructions
 
 ### 1. Install dependencies
